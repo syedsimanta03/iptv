@@ -6,3 +6,7 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 http://ranapk.1.mywebsites.link/api/roarXranaPK.m3u8?id=2
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (3)
 http://dangguli.live:8080/StarJalshaHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (4)
+http://starshare.live:8080/live/usman007/usman007/198.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (5)
+http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2533.m3u8
