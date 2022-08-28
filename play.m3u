@@ -10,5 +10,9 @@ http://dangguli.live:8080/StarJalshaHD/index.m3u8
 http://starshare.live:8080/live/usman007/usman007/198.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (5)
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2533.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (3)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (6)
 http://dangguli.live:8080/StarJalshaHD/tracks-v1a1/mono.m3u8?token=ead7dba9d3131273f24a2cfd2150bc15db790863-c60f224f618801455fbf22734f19018c-1661356727-1661345927
+#EXTINF:-1 tvg-logo="https://secure-media.hotstarext.com/web-assets/prod/images/brand-logos/disney-hotstar-logo-dark.svg" group-title="Indian.",HotStar
+http://iptvh.it/Mirajhots1.m3u8
+#EXTINF:-1 tvg-logo="https://secure-media.hotstarext.com/web-assets/prod/images/brand-logos/disney-hotstar-logo-dark.svg" group-title="Indian.",HotStar
+http://iptvh.it/Hack1.m3u8
