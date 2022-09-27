@@ -1,24 +1,2 @@
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (0)
-http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (1)
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (2)
-http://ranapk.1.mywebsites.link/api/roarXranaPK.m3u8?id=2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (3)
-http://dangguli.live:8080/StarJalshaHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (4)
-http://starshare.live:8080/live/usman007/usman007/198.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (5)
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2533.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (6)
-http://dangguli.live:8080/StarJalshaHD/tracks-v1a1/mono.m3u8?token=ead7dba9d3131273f24a2cfd2150bc15db790863-c60f224f618801455fbf22734f19018c-1661356727-1661345927
-#EXTINF:-1 tvg-logo="https://secure-media.hotstarext.com/web-assets/prod/images/brand-logos/disney-hotstar-logo-dark.svg" group-title="Indian.",HotStar
-http://iptvh.it/Mirajhots1.m3u8
-#EXTINF:-1 tvg-logo="https://secure-media.hotstarext.com/web-assets/prod/images/brand-logos/disney-hotstar-logo-dark.svg" group-title="Indian.",HotStar
-http://iptvh.it/Hack1.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (7)
-http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (8)
-http://streams.sarkernet.com/hls/stream4.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (9)
 http://103.16.24.54:8080/channel5/index.m3u8
