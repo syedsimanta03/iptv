@@ -2,3 +2,5 @@
 http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (2)
 http://103.16.24.54:8080/channel5/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (3)
+http://103.109.56.116/live/skyfeed1003/index.m3u8
